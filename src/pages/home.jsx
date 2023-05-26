@@ -9,7 +9,7 @@ import styled from 'styled-components';
 
 const ContentColumn = styled(Container)`
   flex-direction: column;
-  padding-bottom: 4rem;
+  padding-bottom: 8rem;
 `;
 
 const Accordion = styled.div`
